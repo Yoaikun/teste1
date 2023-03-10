@@ -1,1 +1,14 @@
 tudo bão suave boy
+comandos do git bush
+git init
+git status
+git add .
+ git config --global user.email "joeyalan50@gmail.com"
+ git config user.name "Yoaikun"
+
+git commit -m "o que quero"
+git log
+
+git branch -M main
+
+
